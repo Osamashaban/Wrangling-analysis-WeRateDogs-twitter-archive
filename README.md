@@ -1,7 +1,7 @@
 # Wrangling-analysis-WeRateDogs-twitter-archive
 In this project, I will Wrangling , analyze and clean data on some dogs from archive of Twitteruser @dog_rates, this data contains pictures, the type of dogs and their rate, then I will Visualizeit in consistent, easy-to-understand forms
 
-## Gathering Data
+## 1. Gathering Data
 Data was gathered from 3 sources:
 • Download Twitter archive Manually in twitter_archive_enhanced.csv file
 • Tweet image predictions by using URL ’https://d17h27t6h515a5.cloudfront.net/topher/2017/August/599fpredictions/image-predictions.tsv’ Then saving on image_predictions.tsv file
