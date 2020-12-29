@@ -1,5 +1,5 @@
 # Wrangling-analysis-WeRateDogs-twitter-archive
-In this project, I will Wrangling , analyze and clean data on some dogs from archive of Twitteruser @dog_rates, this data contains pictures, the type of dogs and their rate, then I will Visualizeit in consistent, easy-to-understand forms
+In this project,By Python and Jupyter I will Wrangling , analyze and clean data on some dogs from archive of Twitteruser @dog_rates, this data contains pictures, the type of dogs and their rate, then I will Visualizeit in consistent, easy-to-understand forms
 
 ## 1. Gathering Data
 Data was gathered from 3 sources:
